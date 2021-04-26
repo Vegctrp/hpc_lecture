@@ -19,3 +19,10 @@ Student_number : **21M31298**
 | Class 13 | Containers                           |                           |
 | Class 14 | Scientific computing                 | 14_pde                    |
 | Class 15 | Deep Learning                        | 15_dl                     |
+
+2021/4/26
+```
+git remote add upstream https://github.com/rioyokotalab/hpc_lecture.git
+git fetch upstream
+git merge upstream/master
+```
